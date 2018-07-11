@@ -1,0 +1,1 @@
+# boost-smart-pointer-sole-ownership
